@@ -2,8 +2,7 @@ This is a tutorial template :)
 ===================================
 
 Here is a link to wikipedia
-`Wikipedia fr <https://www.wikipedia.org/>`_
-and offers a *simple* and *intuitive* API.
+`Wikipedia <https://www.wikipedia.org/>`
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
